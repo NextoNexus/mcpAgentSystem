@@ -1,4 +1,3 @@
-```
 # 智能体系统（Agent System）
 
 ## 项目简介
@@ -63,8 +62,6 @@
 ---
 
 ## 目录结构
-
-```
 agentSystem/
 ├── client/
 │   └── remoteAgentClient.py      # 客户端主程序
@@ -77,7 +74,6 @@ agentSystem/
 │       ├── mcp_config_office.json
 │       └── mcp_config_map.json
 └── workspace/                    # 用户工作空间目录
-```
 
 ---
 
@@ -180,5 +176,3 @@ GET /users
 
 ---
 ```
-
-这份 `README.md` 文档全面介绍了项目的背景、技术栈、功能特性、部署方式及使用方法，方便开发者快速上手和维护项目。
