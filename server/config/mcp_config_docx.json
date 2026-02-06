@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "word-document-server": {
+      "command": "python",
+      "args": [
+        "python_modules/Office-Word-MCP-Server-main/word_mcp_server.py"
+      ]
+    }
+  }
+}

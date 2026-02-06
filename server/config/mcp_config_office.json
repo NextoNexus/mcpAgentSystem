@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "word_server": {
+      "command": "python",
+      "args": [
+        "python_modules/mcp_server_word/mcp_word_server.py"
+      ],
+      "timeout": 100
+    },
+    "excel_server": {
+      "command": "python",
+      "args": [
+        "python_modules/mcp_server_excel/mcp_excel_server.py"
+      ],
+      "timeout": 100
+    },
+    "pdf_server": {
+      "command": "python",
+      "args": [
+        "python_modules/mcp_server_pdf/mcp_pdf_server.py"
+      ],
+      "timeout": 100
+    }
+  }
+}

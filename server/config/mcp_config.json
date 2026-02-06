@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp_host_info_server": {
+      "command": "python",
+      "args": [
+        "mcp_host_info_server.py"
+      ],
+      "timeout": 100
+    }
+  }
+}

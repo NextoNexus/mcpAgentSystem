@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "content-core": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "content-core",
+        "content-core-mcp"
+      ]
+    }
+  }
+}
