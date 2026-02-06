@@ -95,6 +95,8 @@ agentSystem/
          password VARCHAR(100)
      );
      ```
+4. **补充**
+   - 采用JavaScript编写的mcp服务器如果需要本地部署则需要用npm install ...安装npm库。
 
 ### 启动服务端
 1. 进入 `server/` 目录：
